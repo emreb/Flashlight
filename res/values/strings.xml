@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="blank">\n\n\n\n\n\n</string>
+    <string name="app_name">Flashlight</string>
+    <string name="menu_pick">Pick a Color</string>
+    <string name="menu_white">White</string>
+    <string name="menu_strobe_on">Party On!</string>
+    <string name="menu_strobe_off">Settle down!</string>
+    <string name="check_menu">Please click on the menu button to see various color options.</string>
+	<string name="analytics_id">xxx</string>
+</resources>
